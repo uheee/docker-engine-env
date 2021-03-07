@@ -12,4 +12,5 @@ RUN apt-get update && \
 
 WORKDIR /tmp
 COPY downloads.txt ./
-RUN wget -i downloads.txt
+RUN wget -i downloads.txt && \
+    unzip -f '*.zip'

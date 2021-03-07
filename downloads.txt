@@ -1,2 +1,2 @@
 https://github.com/opencv/opencv/archive/4.5.1.zip
-https://download.pytorch.org/libtorch/cu111/libtorch-cxx11-abi-shared-with-deps-1.8.0+cu111.zip
+https://download.pytorch.org/libtorch/cu111/libtorch-cxx11-abi-shared-with-deps-1.8.0%2Bcu111.zip
